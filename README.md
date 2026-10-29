@@ -1,5 +1,13 @@
 # Sigilman
 
+[![CI](https://github.com/zkm/sigilman/actions/workflows/ci.yml/badge.svg)](https://github.com/zkm/sigilman/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+
+![Perl 5.10+](https://img.shields.io/badge/Perl-5.10%2B-39457E?logo=perl&logoColor=white)
+![Core modules only](https://img.shields.io/badge/dependencies-core%20modules%20only-brightgreen)
+![Test::More](https://img.shields.io/badge/tests-Test%3A%3AMore-39457E)
+![Terminal](https://img.shields.io/badge/runs%20in-terminal-4D4D4D)
+
 A classic hangman game, played in your terminal, written in Perl.
 
 ## Requirements
